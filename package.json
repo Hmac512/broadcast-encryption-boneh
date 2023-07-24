@@ -1,0 +1,14 @@
+{
+  "name": "pairing_based_broadcast_encryption",
+  "version": "0.0.1a",
+  "description": "broadcast encryption with pairing based cryptography and javascript",
+  "main": "src/dbe.js",
+  "scripts": {
+    "broadcast-encryption": "node src/dbe.js"
+  },
+  "author": "EulerLagrange",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "mcl-wasm": "^0.3.7"
+  }
+}
