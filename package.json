@@ -4,7 +4,7 @@
   "description": "broadcast encryption with pairing based cryptography and javascript",
   "main": "src/dbe.js",
   "scripts": {
-    "broadcast-encryption": "node src/dbe.js"
+    "test": "node src/dbe.js"
   },
   "author": "EulerLagrange",
   "dependencies": {

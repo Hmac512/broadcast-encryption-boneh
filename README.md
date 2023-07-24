@@ -8,7 +8,7 @@ npm i
 
 # test
 ```
-npm run broadcast-encryption
+npm test
 ```
 # Overview
 
