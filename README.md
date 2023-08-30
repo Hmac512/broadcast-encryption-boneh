@@ -12,7 +12,7 @@ npm test
 ```
 # Overview
 
-This is just a POC of an earlier version of broadcast based encryption by Dan Boneh et al. We need something much better for Farcaster.
+This is just a POC of an earlier version of broadcast based encryption by Dan Boneh et al. For use in 2023, one should use the newer constructions of broadcast encryption.
 
 * setup a channel of `n` users, runtime and public key size linear with `n` (96 bytes per user.)
 * create a random subset `S` of users that will be allowed to decrypt.
